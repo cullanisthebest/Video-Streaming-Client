@@ -1,0 +1,9 @@
+c:\users\culla\documents\visual studio 2015\Projects\PlayingVideoCullan\PlayingVideoCullan\bin\Debug\PlayingVideoCullan.exe.config
+c:\users\culla\documents\visual studio 2015\Projects\PlayingVideoCullan\PlayingVideoCullan\bin\Debug\PlayingVideoCullan.exe
+c:\users\culla\documents\visual studio 2015\Projects\PlayingVideoCullan\PlayingVideoCullan\bin\Debug\PlayingVideoCullan.pdb
+c:\users\culla\documents\visual studio 2015\Projects\PlayingVideoCullan\PlayingVideoCullan\obj\Debug\PlayingVideoCullan.csprojResolveAssemblyReference.cache
+c:\users\culla\documents\visual studio 2015\Projects\PlayingVideoCullan\PlayingVideoCullan\obj\Debug\PlayingVideoCullan.Properties.Resources.resources
+c:\users\culla\documents\visual studio 2015\Projects\PlayingVideoCullan\PlayingVideoCullan\obj\Debug\PlayingVideoCullan.csproj.GenerateResource.Cache
+c:\users\culla\documents\visual studio 2015\Projects\PlayingVideoCullan\PlayingVideoCullan\obj\Debug\PlayingVideoCullan.exe
+c:\users\culla\documents\visual studio 2015\Projects\PlayingVideoCullan\PlayingVideoCullan\obj\Debug\PlayingVideoCullan.pdb
+c:\users\culla\documents\visual studio 2015\Projects\PlayingVideoCullan\PlayingVideoCullan\obj\Debug\PlayingVideoCullan.View.resources
